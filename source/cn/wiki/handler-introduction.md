@@ -7,7 +7,7 @@ version: 2.1
 ---
 
 ### 什么是 handler
- hanlder(Android 中称为 adapter，以下称 handler) 是 WeexSDK engine 中一个 service 的概念，它可以被 component、module 和其他的 handler 实现中调用。
+ handler(Android 中称为 adapter，以下称 handler) 是 WeexSDK engine 中一个 service 的概念，它可以被 component、module 和其他的 handler 实现中调用。
 
 ### handler 调用细节
 
